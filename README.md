@@ -1,41 +1,37 @@
-# Onestep
+# I'm Exauce Stan Malka
 
-Bienvenue sur le dépôt GitHub officiel de **Onestep** — une startup dédiée à créer des applications web et mobiles innovantes rentables.
-
-## 🌐 À propos de nous
-Chez **Onestep**, nous croyons en l'impact des technologies intelligentes et accessibles. Notre mission est de développer des solutions numériques de haute qualité qui améliorent la vie des utilisateurs et créent une valeur mesurable pour les entreprises.
-
-### Ce que nous faisons :
-- **Applications Web** : Conception et développement de plateformes web intuitives et performantes.
-- **Applications Mobiles** : Création d'applications mobiles multiplateformes enrichies d'une expérience utilisateur exceptionnelle.
-- **Open Source & Produits** : Partage de projets open source pour la communauté et développement de produits commerciaux prêts à l'emploi.
-
-## ✨ Notre vision
-Nous aspirons à créer un écosystème de solutions qui apportent un équilibre entre innovation, durabilité et rentabilité. Avec **Onestep**, chaque projet est une opportunité de franchir une étape supplémentaire vers l'excellence.
-
-## 🛠️ Nos projets sur GitHub
-- **Projets Open Source** : Nous croyons au partage des connaissances. Sur ce compte, vous trouverez des bibliothèques, outils et frameworks qui peuvent bénéficier à la communauté des développeurs.
-- **Produits commerciaux** : Nous publions également des aperçus et démos de nos produits phares pour engager une audience plus large et recueillir des retours constructifs.
-
-## 💡 Pourquoi nous suivre ?
-- **Accédez à nos outils** : Profitez de nos solutions open source pour booster vos projets.
-- **Rejoignez une communauté** : Connectez-vous avec d'autres passionnés de technologie et collaborez sur des projets inspirants.
-- **Soyez inspirés** : Découvrez comment nous résolvons des problèmes complexes avec des approches simples et efficaces.
-
-## 🚀 Rejoignez-nous
-Vous avez une idée, une suggestion ou un projet passionnant à partager ? Nous serions ravis de collaborer avec vous !
-
-- **Site Web** : [onestepcom00.blogspot.com](https://onestep.dev) *(prochainement)*
-- **Email** : [onestepcom00@gmail.com](mailto:contact@onestep.dev)
-- **Réseaux sociaux** : Retrouvez-nous sur Twitter, LinkedIn et Instagram.
-
-## 📈 Notre engagement
-Avec **Onestep**, chaque ligne de code compte pour créer un futur plus connecté, accessible et prospère.
-
-Merci de votre visite — Ensemble, franchissons une étape de plus vers la réalisation de projets ambitieux.
+[![](https://img.shields.io/badge/-Security%20Engineer-0A0A0A?style=for-the-badge&logo=verizon&logoColor=white)](#)
+[![](https://img.shields.io/badge/-Senior%20Pentester-111111?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+[![](https://img.shields.io/badge/-FullStack%20Developer-202020?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+[![](https://img.shields.io/badge/-Digital%20Entrepreneur-2D2D2D?style=for-the-badge&logo=databricks&logoColor=white)](#)
+[![](https://img.shields.io/badge/-CEO%20@%20Onemarket-333333?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
 
 ---
 
-### 📚 License
-Ce dépôt est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
+🔐 **I build secure, scalable, and forward-thinking digital solutions.**  
+As a FullStack developer by day and a pentester by mindset, I blend offensive security, modern development, and entrepreneurship to push boundaries and secure the future.
 
+🎯 **Expertise**  
+✔ Offensive Security / Ethical Hacking  
+✔ FullStack Web Development  
+✔ Digital Product Architecture  
+✔ DevSecOps & Startup Strategy
+
+🛠️ **Tech Stack**  
+[![](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)](#)
+[![](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)](#)
+[![](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php)](#)
+[![](https://img.shields.io/badge/-TailwindCSS-000?style=flat-square&logo=tailwindcss)](#)
+[![](https://img.shields.io/badge/-Figma-000?style=flat-square&logo=figma)](#)
+[![](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)](#)
+[![](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)](#)
+[![](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs)](#)
+[![](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)](#)
+[![](https://img.shields.io/badge/-Kali%20Linux-000?style=flat-square&logo=kalilinux)](#)
+[![](https://img.shields.io/badge/-Burp%20Suite-000?style=flat-square&logo=protonvpn)](#)
+
+🌍 **Mission**  
+Innovate. Secure. Inspire.  
+**Code with purpose. Hack with ethics. Lead with vision.**
+
+---
